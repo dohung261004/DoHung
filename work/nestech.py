@@ -1,0 +1,6 @@
+print("nguyen vinh quang")
+print("nguyen vinh quang")
+print("nguyen vinh quang")
+print("nguyen vinh quang")
+print("nguyen vinh quang")
+print("nguyen vinh quang")
